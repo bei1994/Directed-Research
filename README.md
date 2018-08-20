@@ -83,6 +83,24 @@ I learned various materials from different sources. Lists are as follows:
 
 ## Tensorflow
 
+I learned tensorflow through doing tutorial examples, watching videos and reading tensorflow official source. Reading source codes is very time consuming and painful. But I do get a deeper understanding. The sources are listed as follows:
+
+### Videos
+
+* [Tensorflow Tutorial 1](https://www.youtube.com/watch?v=eAtGqz8ytOI&list=PLjSwXXbVlK6IHzhLOMpwHHLjYmINRstrk)
+* [Tensorflow Tutorial 2](https://www.youtube.com/watch?v=KOic-GozMTo&index=2&list=PLjSwXXbVlK6IHzhLOMpwHHLjYmINRstrk)
+* [Tensorflow Tutorial 3](https://www.youtube.com/watch?v=k3O0VCHxw10&index=3&list=PLjSwXXbVlK6IHzhLOMpwHHLjYmINRstrk)
+* [Tensorflow Tutorial 4](https://www.youtube.com/watch?v=yZAmA00mF7s&list=PLjSwXXbVlK6IHzhLOMpwHHLjYmINRstrk&index=4)
+* [Tensorflow Tutorial 5](https://www.youtube.com/watch?v=B_NSfh-YiqU&index=5&list=PLjSwXXbVlK6IHzhLOMpwHHLjYmINRstrk)
+* [Tensorflow Tutorial 6](https://www.youtube.com/watch?v=-1WcI_Z4iOs&index=6&list=PLjSwXXbVlK6IHzhLOMpwHHLjYmINRstrk)
+* [Tensorflow Tutorial 7](https://www.youtube.com/watch?v=i-Q6wkAUfLs&index=7&list=PLjSwXXbVlK6IHzhLOMpwHHLjYmINRstrk)
+* [Tensorflow Tutorial 8](https://www.youtube.com/watch?v=WZd2aXMK6oE&index=8&list=PLjSwXXbVlK6IHzhLOMpwHHLjYmINRstrk)
+* [Tensorflow Tutorial 9](https://www.youtube.com/watch?v=5QgtWNOwoKo&list=PLjSwXXbVlK6IHzhLOMpwHHLjYmINRstrk&index=9)
+* [Tensorflow Tutorial 10](https://www.youtube.com/watch?v=9ZjH4BxrmcY&index=10&list=PLjSwXXbVlK6IHzhLOMpwHHLjYmINRstrk)
+
+
+
+
 ### Videos 
 
 ## Intro to Computer Vision
