@@ -22,7 +22,23 @@ I took the course [Convolutional Neural Networks for Visual Recognition](http://
 
 The course link is [here](https://www.coursera.org/learn/neural-networks/home/welcome). Topics include: Backpropagation, Generalization, RNN, Boltzmann machine, Deep Neural Net and so on.
 
+### Deep Reinforcement Learning
 
+I learned various materials from different sources. Lists are as follows:
+
+#### Videos
+
+* [Q Learning 1](https://www.youtube.com/watch?v=o_g9JUMw1Oc&index=3&list=PLJV_el3uVTsODxQFgzMzPLa16h6B8kWM_)
+* [Q Learning 2](https://www.youtube.com/watch?v=2-zGCx4iv_k&index=4&list=PLJV_el3uVTsODxQFgzMzPLa16h6B8kWM_)
+* [Q Learning 3](https://www.youtube.com/watch?v=tnPVcec22cg&index=5&list=PLJV_el3uVTsODxQFgzMzPLa16h6B8kWM_)
+* [Policy Gradient](https://www.youtube.com/watch?v=z95ZYgPgXOY&list=PLJV_el3uVTsODxQFgzMzPLa16h6B8kWM_&index=1)
+* [Proximal Policy Optimization](https://www.youtube.com/watch?v=OAKAZhFmYoI&index=2&list=PLJV_el3uVTsODxQFgzMzPLa16h6B8kWM_)
+* [Actor-Critic](https://www.youtube.com/watch?v=j82QLgfhFiY&list=PLJV_el3uVTsODxQFgzMzPLa16h6B8kWM_&index=6)
+* [Sparse Reward](https://www.youtube.com/watch?v=-5cCWhu0OaM&index=7&list=PLJV_el3uVTsODxQFgzMzPLa16h6B8kWM_)
+* [Imitation Learning](https://www.youtube.com/watch?v=rl_ozvqQUU8&index=8&list=PLJV_el3uVTsODxQFgzMzPLa16h6B8kWM_)
+* [Deep Reinforcement Learning](https://www.youtube.com/watch?v=W8XF3ME8G2I&list=PLJV_el3uVTsPy9oCRY30oBPNLCo89yu49&index=33)
+* [Policy Gradient in Training](https://www.youtube.com/watch?v=y8UPGr36ccI&index=34&list=PLJV_el3uVTsPy9oCRY30oBPNLCo89yu49)
+* [Deep Q Learning](https://www.youtube.com/watch?v=Vz5l886eptw&index=4&t=0s&list=PLvSdMJxMoHLv2S2Do7ny44wsanh3htCAc)
 
 ## Tensorflow
 
