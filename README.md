@@ -58,7 +58,8 @@ I learned various materials from different sources. Lists are as follows:
 * [Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/abs/1602.01783)
 * [Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347)
 
-
+### Project
+* [Deep Reinforcement Learning for Playing Atari](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/reinforcement_learning.py)
 
 ## Tensorflow
 
