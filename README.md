@@ -110,7 +110,7 @@ I learned tensorflow through doing tutorial examples, watching videos and readin
 
 ### Tutorial Exercises
 
-Please check this [folder]()
+Please check this [folder](/tensorflow-tutorial-exercises/)
 
 ## Intro to Computer Vision
 
