@@ -40,6 +40,26 @@ I learned various materials from different sources. Lists are as follows:
 * [Policy Gradient in Training](https://www.youtube.com/watch?v=y8UPGr36ccI&index=34&list=PLJV_el3uVTsPy9oCRY30oBPNLCo89yu49)
 * [Deep Q Learning](https://www.youtube.com/watch?v=Vz5l886eptw&index=4&t=0s&list=PLvSdMJxMoHLv2S2Do7ny44wsanh3htCAc)
 
+### Slides
+
+* [Deep Reinforcement Learning](http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS18.html)
+
+### Paper Readings
+
+* [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/abs/1312.5602)
+* [Human-level control through deep reinforcement learning](https://web.stanford.edu/class/psych209/Readings/MnihEtAlHassibis15NatureControlDeepRL.pdf)
+* [Deep Reinforcement Learning with Double Q-learning](https://arxiv.org/abs/1509.06461)
+* [Prioritized Experience Replay](https://arxiv.org/abs/1511.05952?context=cs)
+* [Noisy Networks for Exploration](https://arxiv.org/abs/1706.10295)
+* [Parameter Space Noise for Exploration](https://arxiv.org/abs/1706.01905)
+* [A Distributional Perspective on Reinforcement Learning](https://arxiv.org/pdf/1707.06887.pdf)
+* [Deterministic Policy Gradient Algorithms](http://proceedings.mlr.press/v32/silver14.pdf)
+* [Continuous control with deep reinforcement learning](https://arxiv.org/abs/1509.02971)
+* [Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/abs/1602.01783)
+* [Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347)
+
+
+
 ## Tensorflow
 
 
