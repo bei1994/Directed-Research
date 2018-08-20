@@ -40,11 +40,11 @@ I learned various materials from different sources. Lists are as follows:
 * [Policy Gradient in Training](https://www.youtube.com/watch?v=y8UPGr36ccI&index=34&list=PLJV_el3uVTsPy9oCRY30oBPNLCo89yu49)
 * [Deep Q Learning](https://www.youtube.com/watch?v=Vz5l886eptw&index=4&t=0s&list=PLvSdMJxMoHLv2S2Do7ny44wsanh3htCAc)
 
-### Slides
+#### Slides
 
 * [Deep Reinforcement Learning](http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS18.html)
 
-### Paper Readings
+#### Paper Readings
 
 * [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/abs/1312.5602)
 * [Human-level control through deep reinforcement learning](https://web.stanford.edu/class/psych209/Readings/MnihEtAlHassibis15NatureControlDeepRL.pdf)
@@ -58,8 +58,28 @@ I learned various materials from different sources. Lists are as follows:
 * [Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/abs/1602.01783)
 * [Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347)
 
-### Project
+#### Project
 * [Deep Reinforcement Learning for Playing Atari](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/reinforcement_learning.py)
+
+### Recurrent Neural Network(Sequence Model)
+
+#### Paper Readings
+
+* [Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+* [Long Short Term Memory](http://www.bioinf.jku.at/publications/older/2604.pdf)
+* [Depth Gated LSTM](https://arxiv.org/abs/1508.03790)
+* [Grid Long Short Term Memory](https://arxiv.org/abs/1507.01526)
+* [Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation](https://arxiv.org/abs/1406.1078)
+* [LSTM: A Search Space Odyssey](https://arxiv.org/abs/1503.04069)
+* [Recurrent Nets That Time and Count](ftp://ftp.idsia.ch/pub/juergen/TimeCount-IJCNN2000.pdf)
+* [An Empirical Exploration of Recurrent Network Architectures](http://proceedings.mlr.press/v37/jozefowicz15.pdf)
+* [A Critical Review of Recurrent Neural Networks for Sequence Learning](https://arxiv.org/abs/1506.00019)
+* [Sequence to Sequence Learning with Neural Networks](https://arxiv.org/abs/1506.00019)
+
+### Projects
+
+* [Recurrent Neural Networks](https://www.tensorflow.org/tutorials/sequences/recurrent)
+* [Date Converter](https://github.com/sachinruk/deepschool.io/blob/master/DL-Keras_Tensorflow/Lesson%2019%20-%20Seq2Seq%20-%20Date%20translator.ipynb)
 
 ## Tensorflow
 
