@@ -108,6 +108,12 @@ I learned tensorflow through doing tutorial examples, watching videos and readin
 
 * [Official Source Code](https://github.com/tensorflow)
 
+### Tutorial Exercises
+
+Please check this [folder]()
+
+
+
 ## Intro to Computer Vision
 
 
