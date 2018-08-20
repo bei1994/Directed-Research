@@ -7,7 +7,7 @@ During this whole summer, my research focus is on recurrent attention model. Thi
 ![mind map](/images/mindmap.png)
 
 ## Recurrent Attention Model
-
+I have researched [Recurrent Models of Visual Attention](https://papers.nips.cc/paper/5542-recurrent-models-of-visual-attention.pdf) and related papers. I totally undersatand and reproduce results in the original paper. Details and specific work please check this [link](https://github.com/bei1994/Recurrent-Attention-Model).
 
 ## Machine Learning
 
