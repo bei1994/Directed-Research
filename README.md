@@ -63,6 +63,12 @@ I learned various materials from different sources. Lists are as follows:
 
 ### Recurrent Neural Network(Sequence Model)
 
+#### Videos
+
+* [RNN LSTM](https://www.youtube.com/watch?v=y7qrilE-Zlc&index=1&list=PLvSdMJxMoHLsMSf7GMhKSOYIOza8ZvSVE)
+* [Seq2Seq](https://www.youtube.com/watch?v=ElmBrKyMXxs&list=PLvSdMJxMoHLsMSf7GMhKSOYIOza8ZvSVE&index=2)
+* [Attention Is All You Need](https://www.youtube.com/watch?v=iDulhoQ2pro&index=3&list=PLvSdMJxMoHLsMSf7GMhKSOYIOza8ZvSVE)
+
 #### Paper Readings
 
 * [Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
