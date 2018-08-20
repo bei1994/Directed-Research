@@ -125,4 +125,4 @@ I learned Matlab through videos and exercises. The [link](https://www.youtube.co
 
 This is a very fruitful summer. I have learned a lot of stuff through this summer directed research involving several different topics. The processes of watching online videos and reading tensorflow source code are very time consuming. And I read many different papers which was also a big challenge to me. At the beginning, my reading speed was very slow due to many recondite concepts. Gradually I can read a paper faster. Plus, when I trained and tuned paras of my network, it was very slow due to lack of GPU. Training and paras tuning is very painstaking. I had to run it during the night and wait fror another several hours if some paras stil weren't good. Anyway, I finally got great results. 
 
-Thank you very much for being my advisor. It is my great honor to learn with you. Thanks, prof!!
+Thank you very much for being my advisor. It is my great honor to learn with you. Thanks, professor!!
