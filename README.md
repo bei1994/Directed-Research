@@ -16,11 +16,11 @@ To have a better understading of related concepts in machine learning, I respect
 
 ### Deep Learning in Computer Vision
 
-I took the course [Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/2017/) from Stanford University. Topics include: CNN, RNN, Deep Reforcement Learning, Training Neural Network, CNN architecture, Generative model, Image classification, segmentation and detecion. 
+I took the course [Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/2017/) from Stanford University. Topics involve: CNN, RNN, Deep Reinforcement Learning, Training Neural Network, CNN architecture, Generative model, Image classification, segmentation and detection. 
 
 ### Neural Network for Machine Learning
 
-The course link is [here](https://www.coursera.org/learn/neural-networks/home/welcome). Topics include: Backpropagation, Generalization, RNN, Boltzmann machine, Deep Neural Net and so on.
+The course link is [here](https://www.coursera.org/learn/neural-networks/home/welcome). Topics involve: Backpropagation, Generalization, RNN, Boltzmann machine, Deep Neural Net and so on.
 
 ### Deep Reinforcement Learning
 
