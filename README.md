@@ -119,4 +119,4 @@ This is the [link](https://classroom.udacity.com/courses/ud810).
 
 ## Matlab
 
-I learned Matlab through videos and exercises. The [link](https://www.youtube.com/playlist?list=PLcKDPPOF93EvvBrgR852MU13zvS2ihTpR) is here. I learned all these 47 videos. My exercises can be found [here]().
+I learned Matlab through videos and exercises. The [link](https://www.youtube.com/playlist?list=PLcKDPPOF93EvvBrgR852MU13zvS2ihTpR) is here. I learned all these 47 videos. My exercises can be found [here](/matlab-exercises/).
