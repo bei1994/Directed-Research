@@ -112,9 +112,11 @@ I learned tensorflow through doing tutorial examples, watching videos and readin
 
 Please check this [folder]()
 
-
-
 ## Intro to Computer Vision
 
+This is an Intro course to computer vision, which helps me to get basic concepts in computer vision.
+This is the [link](https://classroom.udacity.com/courses/ud810).
 
 ## Matlab
+
+I learned Matlab through videos and exercises. The [link](https://www.youtube.com/playlist?list=PLcKDPPOF93EvvBrgR852MU13zvS2ihTpR) is here. I learned all these 47 videos. My exercises can be found [here]().
