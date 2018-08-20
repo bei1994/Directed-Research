@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/liubei/Desktop/tensorflow exercise/projector/projector/model.ckpt-1001"
+all_model_checkpoint_paths: "/Users/liubei/Desktop/tensorflow exercise/projector/projector/model.ckpt-1001"
