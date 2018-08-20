@@ -89,7 +89,7 @@ I learned various materials from different sources. Lists are as follows:
 
 ## Tensorflow
 
-I learned tensorflow through doing tutorial examples, watching videos and reading tensorflow official source. Reading source codes is very time consuming and painful. But I do get a deeper understanding. The sources are listed as follows:
+I learned tensorflow through doing tutorial examples, watching videos and reading tensorflow official source. Reading source codes is very time consuming and painful. But I do get a deeper understanding through this process. The sources are listed as follows:
 
 ### Videos
 
