@@ -104,10 +104,9 @@ I learned tensorflow through doing tutorial examples, watching videos and readin
 * [Tensorflow Tutorial 9](https://www.youtube.com/watch?v=5QgtWNOwoKo&list=PLjSwXXbVlK6IHzhLOMpwHHLjYmINRstrk&index=9)
 * [Tensorflow Tutorial 10](https://www.youtube.com/watch?v=9ZjH4BxrmcY&index=10&list=PLjSwXXbVlK6IHzhLOMpwHHLjYmINRstrk)
 
+### Official Source Code
 
-
-
-### Videos 
+* [Official Source Code](https://github.com/tensorflow)
 
 ## Intro to Computer Vision
 
